@@ -1,0 +1,184 @@
+Solutions
+ Cloud Consulting & Migration
+ Assessment & Roadmap
+ Lift & Shift
+ Landing Zone
+ Well-Architected Cloud
+ Modernization
+ Serverless Modernization
+ Storage Modernization
+ Database Modernization
+ DevOps
+ Managed Services
+ Technology Success
+ Security
+ Disaster Recovery
+ FinOps
+ Artificial Intelligence
+ AI Adoption Roadmap
+ AI Solutions
+ AI Applications
+ MLOps
+ Data & Analytics
+ Data Roadmap
+ Data Insights & BI
+ Data Architectures & Pipelines
+ Startup Accelerator
+ Startup Consulting
+ Startup Build Program
+ Cloud Credit & Resources
+ Innovation Hub
+ AI Readiness Assessment
+ Data Readiness Assessment
+ Cloud Readiness Assessment
+ AI Use Cases
+ AI Accelerators
+ AI Hub
+ Case Studies
+ Blog
+ Company
+ About us
+ Who We Are
+ Our Core Values
+ Our Team
+ Sustainability & CSR
+ Careers
+ Our Environment
+ Open Positions
+ Events
+ English
+ X
+ Contact Us
+ Solutions
+ Cloud Consulting & Migration
+ Assessment & Roadmap
+ Lift & Shift
+ Landing Zone
+ Well-Architected Cloud
+ Modernization
+ Serverless Modernization
+ Storage Modernization
+ Database Modernization
+ DevOps
+ Managed Services
+ Technology Success
+ Security
+ Disaster Recovery
+ FinOps
+ Artificial Intelligence
+ AI Adoption Roadmap
+ AI Solutions
+ AI Applications
+ MLOps
+ Data & Analytics
+ Data Roadmap
+ Data Insights & BI
+ Data Architectures & Pipelines
+ Startup Accelerator
+ Startup Consulting
+ Startup Build Program
+ Cloud Credit & Resources
+ Innovation Hub
+ AI Hub
+ AI Readiness Assessment
+ Data Readiness Assessment
+ Cloud Readiness Assessment
+ AI Use Cases
+ AI Accelerators
+ Case Studies
+ Blog
+ Company
+ About us
+ Who We Are
+ Our Core Values
+ Our Team
+ Sustainability & CSR
+ Careers
+ Our Environment
+ Open Positions
+ Events
+ Contact Us
+ English
+ X
+ Senior AWS Solution Architect
+ Careers
+ About Digico Solutions:
+ Digico Solutions, an esteemed AWS APN Advanced Consulting Partner with headquarters in Abu Dhabi and branches across Dublin, Dubai, Riyadh and Beirut, is at the forefront of cloud technology and digital transformation. Our mission is to empower businesses by delivering top-tier cloud solutions. As we continue to grow and lead in innovation, we are looking to enrich our team with a Senior AWS DevOps Engineer who is passionate about automation, cloud architecture, and continuous improvement.
+ Role Overview:
+ We are seeking an experienced Senior AWS Solution Architect with a minimum of 5 years of relevant experience in cloud architecture and AWS services. The ideal candidate will possess a deep understanding of AWS infrastructure, a proven track record in architecting high-performance solutions, and the ability to lead projects and collaborate effectively with cross-functional teams.
+ Key Responsibilities:
+ Design and implement innovative cloud solutions using AWS services to meet business requirements and objectives.
+ Lead architectural discussions and provide best practice guidance on cloud solutions to clients and internal teams.
+ Collaborate with stakeholders across the organization to understand their needs and translate business requirements into technical solutions.
+ Ensure architectures are scalable, resilient, and cost-effective, incorporating the latest AWS features and technologies.
+ Mentor and guide junior architects and developers, fostering a culture of knowledge-sharing and continuous learning.
+ Stay abreast of new AWS services and features, incorporating them into future solution designs to maintain technical leadership and competitive advantage.
+ Requirements:
+ At least 5 years of experience as a Solution Architect, with significant expertise in designing and implementing solutions on AWS.
+ Strong knowledge of AWS core services, including EC2, S3, RDS, Lambda, CloudFormation, VPC, and IAM, among others.
+ Experience with architecting, deploying, and managing solutions that span multiple AWS regions.
+ Proficiency in creating and optimizing architectures for high availability, fault tolerance, and scalability.
+ Familiarity with DevOps practices and tools, CI/CD pipelines, and infrastructure as code.
+ Excellent communication and presentation skills, with the ability to articulate complex technical concepts to non-technical stakeholders.
+ AWS Solution Architect Professional certification is highly desirable.
+ Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent professional experience.
+ What We Offer:
+ The opportunity to lead and shape the future of DevOps within a leading cloud solutions provider.
+ A collaborative, inclusive, and dynamic work environment that encourages innovation and continuous learning.
+ Competitive compensation, comprehensive insurance benefits, bonus and opportunities for professional growth and development.
+ Category:
+ Engineering
+ Type:
+ Full Time
+ Location:
+ Beirut
+ Onsite
+ Apply for this position
+ Full Name
+ *
+ Email
+ *
+ Phone
+ *
+ Cover Letter
+ *
+ Upload CV/Resume
+ *
+ Allowed Type(s): .pdf, .doc, .docx
+ By using this form you agree with the storage and handling of your data by this website.
+ *
+ Back to Open Positions
+ Schedule a Free Consultation Today
+ Your
+ AI
+ & Cloud
+ Partner
+ Schedule Consultation
+ Solutions
+ Cloud Consulting & Migration
+ Cloud Modernization
+ Managed Services
+ Artificial Intelligence
+ Data & Analytics
+ Startup Accelerator
+ Company
+ Who We Are
+ Our Core Values
+ Our Team
+ Sustainability & CSR
+ News & Reads
+ News
+ Blogs
+ Case Studies
+ Other
+ Events
+ Privacy Policy
+ Terms & Conditions
+ Contact Us
+ DS16
+ Contact Us
+ 2025 Digico Solutions. All Rights Reserved.
+ Subscribe to our Newsletter
+ Subscribe
+ Loading...
+ ×
