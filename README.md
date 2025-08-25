@@ -38,7 +38,7 @@ project/
    ```
 3. **Install dependencies (Python 3.10+ recommended)**
    ```
-  pip install -r requirements.txt
+   pip install -r requirements.txt
     ```
    
 
