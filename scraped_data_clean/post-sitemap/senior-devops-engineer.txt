@@ -1,0 +1,197 @@
+
+Senior DevOps Engineer
+Published on:
+April 6, 2024
+Published in:
+Open Positions
+About
+Digico
+Solutions:
+Digico
+Solutions,
+an
+esteemed
+AWS
+APN
+Advanced
+Consulting
+Partner
+with
+headquarters
+in
+Abu
+Dhabi
+and
+branches
+across
+Dublin,
+Dubai,
+Riyadh
+and
+Beirut,
+is
+at
+the
+forefront
+of
+cloud
+technology
+and
+digital
+transformation.
+Our
+mission
+is
+to
+empower
+businesses
+by
+delivering
+top-tier
+cloud
+solutions.
+As
+we
+continue
+to
+grow
+and
+lead
+in
+innovation,
+we
+are
+looking
+to
+enrich
+our
+team
+with
+a
+Senior
+AWS
+DevOps
+Engineer
+who
+is
+passionate
+about
+automation,
+cloud
+architecture,
+and
+continuous
+improvement.
+Role
+Overview:
+We’re
+seeking
+a
+seasoned
+Senior
+AWS
+DevOps
+Engineer
+with
+a
+minimum
+of
+5
+years
+of
+experience,
+including
+team
+management
+and
+involvement
+in
+a
+Cloud
+Center
+of
+Excellence
+(CCoE).
+This
+role
+involves
+leading
+our
+DevOps
+initiatives,
+driving
+automation,
+improving
+system
+performance,
+and
+mentoring
+a
+team
+of
+talented
+engineers.
+The
+ideal
+candidate
+will
+have
+a
+strong
+background
+in
+AWS
+services,
+infrastructure
+as
+code,
+and
+a
+proven
+track
+record
+of
+implementing
+DevOps
+best
+practices
+in
+a
+cloud
+environment.
+Key
+Responsibilities:
+Lead and manage the DevOps team, setting goals and developing career paths for team members.
+Spearhead the design and implementation of fully automated CI/CD pipelines for code deployment across multiple environments.
+Actively contribute to the development and maintenance of the Cloud Center of Excellence, sharing best practices, and driving cloud adoption across the organization.
+Oversee and optimize infrastructure as code (IaC) using tools such as Terraform, CloudFormation, or similar.
+Ensure system reliability, scalability, and security through effective cloud architecture and proactive monitoring.
+Drive incident management processes and contribute to root cause analysis and resolution.
+Foster a culture of continuous improvement by introducing new technologies and processes that enhance operational efficiency.
+Requirements:
+At least 5 years of experience in DevOps, with a strong focus on AWS cloud services.
+Demonstrated experience managing DevOps teams and contributing to a Cloud Center of Excellence.
+Proficiency in CI/CD tooling (e.g., Jenkins, GitLab CI, CircleCI) and IaC (e.g., Terraform, AWS CloudFormation).
+Expertise in scripting languages (e.g., Python, Bash) and configuration management tools (e.g., Ansible, Chef, Puppet).
+Strong understanding of containerization and orchestration technologies (e.g., Docker, Kubernetes).
+Familiarity with monitoring and logging tools (e.g., CloudWatch, ELK stack, Prometheus).
+Excellent problem-solving, teamwork, and communication skills.
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent professional experience.
+What
+We
+Offer:
+The opportunity to lead and shape the future of DevOps within a leading cloud solutions provider.
+A collaborative, inclusive, and dynamic work environment that encourages innovation and continuous learning.
+Competitive compensation, comprehensive insurance benefits, bonus and opportunities for professional growth and development.
+Category
+Engineering
+Type
+Full Time
+Location
+Beirut, Onsite
+Experience
+Senior
+Apply
+for
+this
+role

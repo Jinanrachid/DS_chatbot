@@ -1,0 +1,6 @@
+
+Tag: AWS Well Architected
+CDK Your Way to the Perfect Infrastructure
+Driving Sustainability with AWS: Onward to a Greener Future
+AWS Cloud Adoption Framework
+Maximizing Success with AWS Well-Architected Framework: Best Practices and Strategies

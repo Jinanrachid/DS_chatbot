@@ -1,0 +1,47 @@
+
+Driving Sustainability with AWS: Onward to a Greener Future
+Israa Hamieh
+April 19, 2024
+Blog
+Table of Contents
+Let’s Talk Numbers
+Of the many reasons to move to the cloud, sustainability is at the forefront. Research has shown that moving customers’ workloads from on-premises to the AWS cloud can reduce customers’ carbon footprints by a whopping 80%. This is greatly due to the fact that AWS infrastructure is up to 5x more energy efficient than the average European data
+center
+, with 90% of Amazon’s electricity sourced from renewable energy back in 2022.
+Footprints in the Cloud
+This section will elaborate on the inherent features of the AWS cloud which help you increase the sustainability of your organization’s workloads:
+Dynamic Scaling:
+AWS allows for automatic scaling of resources based on demand. During periods of low demand, the system can reduce the number of active servers, leading to lower energy consumption.
+Serverless Computing:
+In a serverless architecture, using services like Lambda and Fargate, you only pay for the compute time used, and resources are allocated on-demand, minimizing idle resource consumption.
+Energy-Efficient Data Centers:
+AWS designs and operates energy-efficient data centers. This includes using advanced cooling techniques, energy-efficient hardware, and optimizing the layout of servers for better airflow.
+Power Usage Effectiveness Optimization:
+AWS focuses on achieving a low PUE, which is a measure of how efficiently a data center uses power. For example, AWS’s processor Graviton3 boasts remarkable energy-efficiency. Graviton3-based EC2 instances use up to 60% less energy than comparable Amazon EC2 instances without compromising on performance. Another power-efficient chip created by Amazon is the Inferentia, a machine learning inference chip, which provides up to 50% more performance per watt at a reduced cost.
+Sustainability by Design
+To plan your system from the ground-up or re-design it to be more Earth-conscious, the following steps can help visualize and realize your sustainability goals :
+Measure your Impact:
+Throughout the lifecycle of your system, evaluate its impact, establishing benchmarks and KPIs for continuously improving its efficiency.
+Sustainability goals:
+Going beyond the short-term, establish plans to invest in and achieve sustainability. These plans will help you overcome current budget or resource restraints and transform your sustainability gradually as your business grows and simultaneously reduces impact.
+The more utilization the better:
+This step emphasizes the importance of running your workload with infrastructure chosen to match your workload needs without over-provisioning. This mitigates resource waste and promotes their efficient use.
+Embrace Change:
+Design your workloads with maximum flexibility, keeping in mind that newer more efficient technologies may emerge and improve energy efficiency.
+Seize the Opportunity:
+Utilize AWS managed services that operate at scale for increased efficiency and provide you with options to dynamically adjust capacity based on demand, optimizing resource utilization.
+Predict your customers’ needs:
+Plan your system and workloads to require minimal resource use from your customers to be able to use your products and offerings.
+AWS Tools & Technologies for the Environment
+AWS Optimized Hardware:
+AWS regularly updates its hardware to include the latest energy-efficient technologies, including processors, storage devices, and networking equipment designed for optimal power consumption.
+AWS Compute Optimizer:
+This service uses machine learning to analyze usage patterns and recommend optimal configurations for Amazon EC2 instances, balancing performance, resource utilization, and cost efficiency.
+AWS Customer Carbon Footprint Tool:
+This service quantifies the environmental impact of your AWS workload, helping you make informed decisions to reduce your carbon footprint, forecast its value based on your provisioned AWS resources, and meticulously plan your sustainability goals.
+Well-Architected Tool – Sustainability Pillar:
+Not sure whether you’re on the right track to a cleaner future? Assess your workloads’ ‘sustainability score’ using the questionnaire in the Sustainability Pillar of the Well-Architected tool. This will help you evaluate how eco-friendly your workloads and operations are, providing you with further recommendations to make your systems more environmentally conscious.
+Closing Thoughts
+Thus, the cloud’s transformative power lies not just in technological efficiency; it’s a pivotal force driving eco-conscious practices and standards for businesses. Cloud modernization enables organizations to optimize their systems’ resources, leaving a smaller carbon footprint without compromising on performance. This isn’t just a practical upgrade; it’s a commitment to a greener, more responsible brand identity.
+Take Matters into your Own Hands
+Ready to make a difference? Consider leveraging the AWS cloud for your digital transformation journey. Take a moment to evaluate your workloads using the sustainability pillar of the Well-Architected Review and incorporate some of the aforementioned eco-friendly design principles into your systems, and you’ll find yourself one step closer to a more sustainable society. The future is green – embrace it with AWS.

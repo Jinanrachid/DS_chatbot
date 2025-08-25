@@ -1,0 +1,10 @@
+
+Tag: Model Development
+From Chalkboard to Chatbot: The Role of Generative AI in Modern Education
+Virtual Minds: Revolutionizing the use of AI
+Welcome the Multi-Component Agents of AWS Bedrock
+Unleashing Creativity: Using Machine Learning and AI for Music Creation with AWS
+Revolutionizing Chatbots: The Power of Amazon Lex and Bedrock Combined
+Accelerate Generative AI App Development with Amazon Bedrock
+Interact with Falcon Generative AI: AWS Amplify Meet SageMaker
+Deploying Falcon 40B LLM Using AWS SageMaker

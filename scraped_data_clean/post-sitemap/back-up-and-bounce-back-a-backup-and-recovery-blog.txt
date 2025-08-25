@@ -1,0 +1,56 @@
+
+Back Up and Bounce Back: A Backup and Recovery Blog
+Cezar Ashkar
+February 25, 2024
+Blog
+Table of Contents
+Welcome to the world of digital ships and data lifeboats – where every click, every transaction, and every upload carries the weight of your digital realm. In this blog, we’ll go on board a journey through the concepts of backup and recovery, discussing the intricate dance of data protection, and exploring the importance of having a robust backup strategy.
+How It Works
+In backup and recovery processes, incremental backups represent small saved segments of your data. A full system restore, on the other hand, is a rebuild of all your system from the available saved backups you have performed.
+Having your digital empire on the cloud is the safest option for your data’s availability, but no where is completely safe, your infrastructure is in one availability zone per-se, but what if a natural disaster hits that precise zone?
+Thats why you make a copy of your data to a place elsewhere, far from your original zone, and there you can choose how to store that copy. Your servers, your strategy.
+Strategies are divided into four kinds:
+Backup & Restore:
+Ideal for users prioritizing availability and cost optimization, even at the expense of longer recovery times in terms of RPO and RTO.
+Pilot light:
+Tailored for users seeking a balance between readiness and cost-effectiveness, the Pilot Light strategy is optimal. This approach maintains a minimal operational core, similar to a pilot light, allowing for rapid scale-up during recovery while minimizing costs associated with regular operations
+Warm standby:
+This strategy keeps a partially active system ready. This approach strikes a balance, offering faster recovery times than a Pilot Light while maintaining cost efficiency compared to a fully operational system.
+Multisite or Active/Active:
+This option utilizes a fully operational copy of your active system, all configurations replicated, with zero downtime and near zero data loss, and made for mission critical services, aka, not for the faint of heart, as it is the most expensive of all options.
+Backups are often categorized into three parts:
+Full backups
+: During this procedure, all information housed on a production server is moved to a backup server for safekeeping. The time needed for full backups is flexible, spanning from several hours to potentially days, contingent on the amount of data being conserved. These backups protect every bit of data originating from a single server, database, or virtual machine (VM). The efficiency of a data management solution can influence how often and how quickly full backups occur – contemporary solutions often demand fewer full backups, and when performed, they are completed efficiently.
+Incremental backups
+: This type of backup captures only the new data introduced since the last full incremental backup. However, it is important to note that an initial full backup must be completed before performing the first incremental backup.
+Differential backups
+function similarly to incremental backups in that they add more data since the last full backup. However, the key difference lies in the reference point, which is the last full backup, not the last incremental one. Organizations typically establish specific policies regarding the frequency and timing of incremental or differential backups based on their data management needs.
+In the next section, we’ll delve into the significance of backup and recovery, exploring why these practices are not just a safety net but a beacon guiding your digital ship through the stormy seas of potential data loss.
+Importance
+It’s not merely about avoiding the rain; it’s about dancing through the digital storm confidently, armed with an umbrella of comprehensive data protection.
+Explore with us why backup is more than just a routine; it’s a fundamental practice ensuring that even if the ship encounters turbulent waves, your data sails through unharmed.
+Bad things can always happen, whether it’s a sandstorm, flood, hurricane, cyberattack etc.. no system is built with 100% availability, thats why backup is that important. Equivalent to taking an umbrella with you everywhere in Europe, it might be summer and sunny, but you never know what happens next.
+Some of the important benefits that come with backup and recovery are:
+Data protection:
+Pretty self explanatory.
+Business continuity:
+Since backups get you back in no time, you’ll be minimizing downtime, minimizing costs with it.
+Regulatory compliance:
+Many industries and businesses are subject to regulations that mandate data protection and retention, which can be satisfied by taking regular backups.
+Data evolution:
+With the help of versioning, you can go visit the ghosts of the past, your old data, and see how far you’ve gone, and how that data has been updated.
+Safe data, happy life:
+Peace of mind is priceless, why live a business life with one extra concern.
+Services and Solutions
+You might be wondering, what can someone use to achieve a fully backed up system, with fault tolerance and safety, well, let me tell you about my favorite service: AWS Backup.
+AWS Backup is a comprehensive, managed backup service designed to simplify and automate data backup across AWS services, both in the cloud and on premises through AWS Storage Gateway.
+This service allows centralized configuration of backup policies and monitoring for various AWS resources, including Amazon EBS volumes, Amazon RDS databases, Amazon DynamoDB tables, Amazon EFS file systems, and AWS Storage Gateway volumes.
+By automating and consolidating backup tasks that were previously handled individually for each service, AWS Backup eliminates the need for custom scripts and manual processes.
+It provides a fully managed, policy-based backup solution, streamlining backup management and ensuring compliance with business and regulatory backup requirements.
+How it works
+The figure above demonstrates the multiple uses of AWS Backup, after creating a backup plan, and assigning the related application, you now protect them, from there you can choose to monitor, audit, or restore them in an another AZ to create your own backup strategy.
+As for
+solutions
+, AWS Backup can be mounted on a simple EC2 server for example, with a predefined backup plan, so you can work, deploy, migrate, recover, and stress-test, stress-free.
+Conclusion
+In the digital realm, every click matters, and having a solid backup plan is like an umbrella for your data in a potential storm. This blog takes you on a journey through data protection, highlighting the importance of a reliable backup strategy. Whether it’s the small steps of incremental backups or the grand finale of a full system restore, the goal is to keep your digital world safe and sound. Backup isn’t just a safety net; it’s a practical necessity ensuring your data stays intact, even when unexpected challenges arise. So, now you know why having a good backup plan is like having that trusty umbrella in Europe – you might not always need it, but when you do, you’ll be glad you have it.

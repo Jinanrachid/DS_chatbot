@@ -1,0 +1,13 @@
+
+Tag: Serverless Acceleration
+Cloud Cost Optimization: Uncovering Untapped Savings
+Smarter, Faster, Bolder – How AI Became the New Business Brain
+Cloud-Native AI Agents: Self-Healing Infrastructure is No Longer a Dream
+Optimizing Amazon DynamoDB: Avoid These Common Mistakes
+CDK Your Way to the Perfect Infrastructure
+Revolutionizing Chatbots: The Power of Amazon Lex and Bedrock Combined
+Accelerate Generative AI App Development with Amazon Bedrock
+Deploy to AWS Amplify with CI/CD Enabled
+Your Guide to AWS CLI
+Interact with Falcon Generative AI: AWS Amplify Meet SageMaker
+Deploying Falcon 40B LLM Using AWS SageMaker

@@ -1,0 +1,12 @@
+
+Tag: AWS
+The GenAI Hype: Where is the ROI?
+Amazon Q Business: The AI Assistant That Actually Respects Your Organizational Needs
+Generative AI: Reshaping Software Development
+Bridging the Linguistic Gap with AI: The Arabic Language Frontier
+Cloud Cost Optimization: Uncovering Untapped Savings
+Optimizing Amazon DynamoDB: Avoid These Common Mistakes
+The Foundation of Cloud Success: Mastering Infrastructure Security
+Transform your Business Insights with AWS QuickSight
+Why Fresh Data Matters: The Power of Real-Time Analytics with Kinesis
+Ground to Cloud: Simplifying SMBs Migration to AWS
