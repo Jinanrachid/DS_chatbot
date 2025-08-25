@@ -39,22 +39,21 @@ project/
 3. **Install dependencies (Python 3.10+ recommended)**
    ```
    pip install -r requirements.txt
-    ```
+   ```
    
-
 ### Installation
 1. **Clone the repository**
-  ```
-  git clone https://github.com/yourusername/project.git](https://github.com/Jinanrachid/DS_chatbot.git
-  cd DS_chatbot
-  ```
+   ```
+   git clone https://github.com/yourusername/project.git](https://github.com/Jinanrachid/DS_chatbot.git
+   cd DS_chatbot
+   ```
 ### Usage
 1. **Scrape data**
-  ```
-  python scrape_website.py
-  ```
+   ```
+   python scrape_website.py
+   ```
 2. **Clean data**
-  ```
-  python clean_data.py
-  ```
+   ```
+   python clean_data.py
+   ```
 
