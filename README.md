@@ -131,11 +131,11 @@ python Create_chunksv1.py
 
 ## Store embeddings in chromadb
 ```
-Read_and_store.py
+python Read_and_store.py
 ```
 ## Run Chatbot
 ```
-Chatbot_system.py
+python Chatbot_system.py
 ```
 
 
