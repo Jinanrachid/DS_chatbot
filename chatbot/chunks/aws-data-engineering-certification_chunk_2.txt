@@ -1,0 +1,1 @@
+2. AWS Certified Data Engineer – Associate (DEA-C01) Exam Guide by AWS : The official AWS exam guide is an invaluable resource. It outlines the service requirements, typical knowledge areas that need to be demonstrated, and the skills you must master to succeed in the exam.

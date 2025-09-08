@@ -1,7 +1,1 @@
-
-Tag: Migration
-Smartrise: A Strategic Migration for Growth
-AWS Cloud Adoption Framework
-Saudi Arabia’s Digital Takeoff: New AWS KSA Region In The Works
-Outgrowing Your File System? Meet AWS EFS
-Traditional Storage VS. Cloud Storage
+Tag: Migration Smartrise: A Strategic Migration for Growth AWS Cloud Adoption Framework Saudi Arabia’s Digital Takeoff: New AWS KSA Region In The Works Outgrowing Your File System? Meet AWS EFS Traditional Storage VS. Cloud Storage

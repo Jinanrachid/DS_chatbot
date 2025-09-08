@@ -1,0 +1,1 @@
+from_pretrained() . The generator is created using the pipeline() function from Transformers. The handle() function is the entry point for processing input data. It checks if the model has been initialized, and if not, it calls the get_model() function to initialize it.

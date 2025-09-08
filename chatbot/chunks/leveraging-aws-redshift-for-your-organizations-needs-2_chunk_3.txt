@@ -1,0 +1,1 @@
+Compress data: Compressing data using appropriate compression algorithms can reduce storage requirements and improve data loading performance.

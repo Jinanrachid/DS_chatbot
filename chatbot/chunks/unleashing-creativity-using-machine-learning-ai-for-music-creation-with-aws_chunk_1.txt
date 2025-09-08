@@ -1,0 +1,1 @@
+Polly turns text into lifelike speech, adding vocal elements to your compositions. Customize the voice and speech patterns in Polly to match the desired style of the music, creating sung lyrics or vocal effects. 5- Post-Processing and Refinement: Use additional AWS tools or third-party applications to refine and polish the generated music.

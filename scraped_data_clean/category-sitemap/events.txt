@@ -1,7 +1,1 @@
-
-Category: Events
-AWS Community Day Beirut 2023
-AWS Cloud Day UAE
-Driving Customer Growth Through Machine Learning & AI
-AI For Next Generation Growth
-LEAP 2024
+Category: Events AWS Community Day Beirut 2023 AWS Cloud Day UAE Driving Customer Growth Through Machine Learning & AI AI For Next Generation Growth LEAP 2024

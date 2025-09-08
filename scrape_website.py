@@ -28,7 +28,6 @@ def is_arabic_url(url):
         return True
     return False
 
-
 def fetch_post_urls(sitemap_url_list, site_namespace):
     """Fetches post URLs from the sitemap URLs."""
     URLs_dict = initialize_urls_dict(sitemap_url_list)
@@ -45,15 +44,12 @@ def create_folder_name(sitemap_name):
     name = create_name(sitemap_name,-1)
     return clean_name(name)
 
-
-
 def create_folder(folder_name, root="scraped_data"):
     """Creates a folder if it does not exist."""
     full_path = os.path.join(root, folder_name)
     if not os.path.exists(full_path):
         os.makedirs(full_path)
     return True
-
 
 def scrape_and_save_text(dict_of_urls):
     """ loop over each sitemap then scrape data from each URL and

@@ -92,6 +92,7 @@ def clean_text(text, matches_list):
     text  = text.replace("  ", " ")
 
     text = remove_empty_lines(text)
+    text = text.replace("\n", " ").strip()  # Replace line breaks with space and remove extra spaces
 
     return text
 

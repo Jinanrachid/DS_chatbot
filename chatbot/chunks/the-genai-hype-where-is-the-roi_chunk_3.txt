@@ -1,0 +1,1 @@
+Poor Data Quality. Garbage data fed into an AI model results in sparkly but still garbage outcomes. GenAI is only as good as the data it has access to. What ROI in GenAI Should Look Like When done right, GenAI creates clear and measurable value. Here are a few signs that it’s delivering real ROI. 1.

@@ -1,0 +1,1 @@
+– Restrict access using VPC endpoints when necessary. Ignoring Indexes and Alternative Query Paths DynamoDB supports Global Secondary Indexes (GSI) and Local Secondary Indexes (LSI) to enable efficient queries. Not using them can lead to slow and costly operations.

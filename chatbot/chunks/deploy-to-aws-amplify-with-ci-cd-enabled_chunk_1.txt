@@ -1,0 +1,1 @@
+Once the web app is deployed you can use the URL from the Domain setting shown below to access your web app from your browser. Update settings in API Gateway In this section, changes will be made to the API created as an endpoint called from our repository code. Previously, our API allowed access from our undeployed website running on localhost:3000.

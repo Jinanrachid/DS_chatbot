@@ -1,0 +1,1 @@
+Moreover, AWS Firewall Manager offers centralized oversight, enabling the implementation and management of firewall rules across your entire AWS organization. This consistency in policy enforcement not only strengthens your security posture but simplifies compliance with industry regulations.
